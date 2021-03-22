@@ -1,0 +1,160 @@
+﻿.pageGradient {
+    min-height: 100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background: -moz-linear-gradient(DarkBlue 0%, LightBlue 36%, White 50%) !important;
+    background: linear-gradient(DarkBlue 0%, LightBlue 36%, White 50%) !important;
+}
+
+.pageGradient1 {
+    min-height: 100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background: -moz-linear-gradient(DarkBlue 0%, LightBlue 8%, White 14%) !important;
+    background: linear-gradient(DarkBlue 0%, LightBlue 8%, White 14%) !important;
+}
+
+.backgroundText {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    color: whitesmoke
+}
+
+.navCenter {
+    position: relative;
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.h1text {
+    position: absolute;
+    top: 24px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: whitesmoke;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.paragraphPos {
+    margin-top: 20px;
+}
+
+.text {
+    font-size: 10px;
+    color: black;
+    text-align: center;
+}
+
+.mystyle {
+    margin-bottom: 0px;
+    border-top: 1px solid black;
+    position: relative;
+    top: 6em;
+}
+
+.footerbottom {
+    position: relative;
+    top: 6em;
+    text-align: center;
+}
+
+.imgFacebook {
+    position: relative;
+    left: 0px;
+}
+
+.imgWikiepdia {
+    position: relative;
+    right: 0px;
+}
+
+.img {
+    width: 300px;
+    height: 250px;
+}
+
+.img1 {
+    margin-top: -15px;
+}
+
+.fig {
+    display: flex;
+    flex-flow: column;
+    max-width: 301px;
+    margin: auto;
+}
+
+figcaption {
+    font: 12px sans-serif;
+    padding: 3px;
+}
+
+.vid {
+    width: 300px;
+    height: 168.85px;
+}
+
+.figurePositionChange {
+    height: 301px;
+}
+
+.fit {
+    width: 140px;
+    height: 70px;
+}
+
+.padmargin {
+    padding: 5px;
+    margin-top: 20px;
+}
+
+.show {
+    margin-bottom: 150px;
+}
+
+.navbar-nav .active {
+    color: black;
+    font-weight: bolder;
+}
+
+.fig1 {
+    display: flex;
+    flex-flow: row;
+    margin: auto;
+}
+
+.row1 {
+    margin-top: 15px;
+}
+
+.padding1 {
+    padding: 10px;
+    margin: 10px;
+}
+
+.marginbot {
+    padding-top: 20px;
+}
+
+.smalltext {
+    font-size: 10px;
+}
+
+.largetext {
+    font-size: 14px;
+}
